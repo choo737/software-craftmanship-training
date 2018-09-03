@@ -17,7 +17,7 @@
  * Change Chinese New Year Package to products (Strawberry Jam, BMW, Table)
 
 ### Try the "**Easy** to maintain" code
-* Go to project **CodeDemo1**.
+* Go to project **CodeDemo2**.
 * Run the project.
 * Try to complete the tasks below in *Program.cs*
  * Add a few products into Vehicle Product Group
