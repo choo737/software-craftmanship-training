@@ -7,6 +7,14 @@
 * Clone the repository
 * Launch CodeDemo.sln in Visual Studio
 
+### Prerequisite
+
+* Install dotnet core runtime
+
+### Restore your packages
+
+1. `cd CodeDemo1 && dotnet restore && cd ../CodeDemo2 && dotnet restore && cd ../DemoModel && dotnet restore && cd ..`
+2. to the the application, cd into each folder and do `dotnet run`
 
 ### Try the "**Hard** to maintain" code
 * Go to project **CodeDemo1**.
